@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/evsProject/static/css/main.1895d768.chunk.css",
-    "main.js": "/evsProject/static/js/main.2a6983a9.chunk.js",
-    "main.js.map": "/evsProject/static/js/main.2a6983a9.chunk.js.map",
+    "main.js": "/evsProject/static/js/main.a06ed1d0.chunk.js",
+    "main.js.map": "/evsProject/static/js/main.a06ed1d0.chunk.js.map",
     "runtime-main.js": "/evsProject/static/js/runtime-main.0a703975.js",
     "runtime-main.js.map": "/evsProject/static/js/runtime-main.0a703975.js.map",
     "static/js/2.3d5197d9.chunk.js": "/evsProject/static/js/2.3d5197d9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0a703975.js",
     "static/js/2.3d5197d9.chunk.js",
     "static/css/main.1895d768.chunk.css",
-    "static/js/main.2a6983a9.chunk.js"
+    "static/js/main.a06ed1d0.chunk.js"
   ]
 }
