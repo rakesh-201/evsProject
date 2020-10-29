@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/evsProject/static/css/main.1895d768.chunk.css",
+    "main.js": "/evsProject/static/js/main.49ba9d70.chunk.js",
+    "main.js.map": "/evsProject/static/js/main.49ba9d70.chunk.js.map",
+    "runtime-main.js": "/evsProject/static/js/runtime-main.0a703975.js",
+    "runtime-main.js.map": "/evsProject/static/js/runtime-main.0a703975.js.map",
+    "static/js/2.3d5197d9.chunk.js": "/evsProject/static/js/2.3d5197d9.chunk.js",
+    "static/js/2.3d5197d9.chunk.js.map": "/evsProject/static/js/2.3d5197d9.chunk.js.map",
+    "static/js/3.21cdded8.chunk.js": "/evsProject/static/js/3.21cdded8.chunk.js",
+    "static/js/3.21cdded8.chunk.js.map": "/evsProject/static/js/3.21cdded8.chunk.js.map",
+    "index.html": "/evsProject/index.html",
+    "static/css/main.1895d768.chunk.css.map": "/evsProject/static/css/main.1895d768.chunk.css.map",
+    "static/js/2.3d5197d9.chunk.js.LICENSE.txt": "/evsProject/static/js/2.3d5197d9.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/evsProject/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a703975.js",
+    "static/js/2.3d5197d9.chunk.js",
+    "static/css/main.1895d768.chunk.css",
+    "static/js/main.49ba9d70.chunk.js"
+  ]
+}
